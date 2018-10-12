@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Dr. Guo"
+title                    : "Ke Guo"
 title_separator          : "-"
 name                     : &name "Guo Ke"
 description              : &description "personal description"
